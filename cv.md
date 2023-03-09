@@ -13,3 +13,10 @@
 #### ![Linkedin](https://www.linkedin.com/in/timur-lagawy/)
 
 #### ![GitHub](https://github.com/TimurLagawy)
+
+## About me:
+
+Hello. Looking for a job / internship/ trainee as Java Junior Developer (or similar).\
+ I am hardworking, determined, like new technologies, love to learn and apply knowledge\
+ in practice, I have a technical mindset. I will be glad to any feedback and job offer\
+ in the IT industry.
