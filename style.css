@@ -1,5 +1,9 @@
 html {
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
+}
+
+.nav {
+  display: flex;
 }
 
 .body {
@@ -8,8 +12,16 @@ html {
   justify-content: space-between;
 }
 
-.nav{
-  display: grid;
-  justify-content: flex-end;
-  align-items: center;
+.body_profile-foto {
+  width: 300px;
+  height: 300px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-foto {
+  width: 300px;
 }
