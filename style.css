@@ -1,3 +1,15 @@
-body{display: flex;
+html {
+  scroll-behavior: smooth; 
+}
+
+.body {
+  display: grid;
   flex-direction: column;
-  justify-content: space-between;}
+  justify-content: space-between;
+}
+
+.nav{
+  display: grid;
+  justify-content: flex-end;
+  align-items: center;
+}
