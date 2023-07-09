@@ -5,6 +5,8 @@ html {
 
 .nav {
   display: flex;
+  justify-content: center;
+  text-align: center;
 }
 
 .body {
@@ -16,23 +18,21 @@ html {
   margin-right: 20vw;
 }
 
-.body_profile-foto {
-  width: 1777px;
-  height: 1555px;
+.cv-foto {
+  width: 370px;
 }
 
-.my-foto {
-  height: 300;
-  width: 300;
-  background: url(https://github.com/TimurLagawy/fotoForShelter/blob/master/start-screen-puppy.png?raw=true);
-}
-
-.nav-list {
+.nav-list,
+.list-secondary,
+.nav-a {
+  text-decoration: none;
   list-style: none;
+  color: black;
 }
 
 .header {
   text-align: center;
+  justify-content: center;
   display: flex;
 }
 
