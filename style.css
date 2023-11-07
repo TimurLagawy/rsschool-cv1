@@ -62,3 +62,8 @@ html {
 .hight-light {
   color: orangered;
 }
+
+.bold {
+  text-decoration: none;
+  color: black;
+}
